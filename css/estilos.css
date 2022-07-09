@@ -2,7 +2,7 @@ body{
     color: black;
     text-align: center;
     font-family: "Arial";
-    font-size: 10px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
@@ -16,4 +16,17 @@ body{
 }
 #container h1{
     font-size: 20px;
+}
+#cabecera{
+    background: blue;
+    box-shadow: 0px 2px 20px 0px black 0.5;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
